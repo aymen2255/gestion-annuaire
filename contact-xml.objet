@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_20" class="java.beans.XMLDecoder">
+ <object class="fr.treeptik.pojo.Contact">
+  <void property="nom">
+   <string>Dupond</string>
+  </void>
+  <void property="prenom">
+   <string>Jean</string>
+  </void>
+ </object>
+</java>
